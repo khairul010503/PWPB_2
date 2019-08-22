@@ -68,7 +68,7 @@
 			<ul>
 				<li><a href="#" class="active">Home</a></li>
 				<li><a href="tugas1.php">Tugas Pertama</a></li>
-				<li><a href="#">Tugas Kedua</a></li>
+				<li><a href="tugas2.php">Tugas Kedua</a></li>
 				<li><a href="#">Tugas Ketiga</a></li>
 				<li><a href="#">Tugas Keempat</a></li>
 			</ul>
